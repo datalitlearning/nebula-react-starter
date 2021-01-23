@@ -1,7 +1,7 @@
-# hello
+# Nebula React Starter
 
 ## Usage
 
 ```js
-npm install hello
+
 ```
